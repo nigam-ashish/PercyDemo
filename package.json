@@ -1,0 +1,22 @@
+{
+  "name": "percydemo",
+  "version": "1.0.0",
+  "description": "Builds and CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishvrt/PercyDemo.git"
+  },
+  "keywords": [
+    "PercyDemo"
+  ],
+  "author": "Ashish Nigam",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ashishvrt/PercyDemo/issues"
+  },
+  "homepage": "https://github.com/ashishvrt/PercyDemo#readme"
+}
